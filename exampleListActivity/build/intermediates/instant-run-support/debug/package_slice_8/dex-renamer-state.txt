@@ -1,0 +1,4 @@
+#Sun Jun 17 13:15:16 CST 2018
+base.0=E\:\\androidStdio File\\itheima\\ZHBJ2\\exampleListActivity\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
